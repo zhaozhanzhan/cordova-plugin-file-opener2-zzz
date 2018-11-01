@@ -1,6 +1,5 @@
 {
     "_from": "cordova-plugin-file-opener2-zzz",
-    "_id": "cordova-plugin-file-opener2-zzz@3.0.0",
     "_inBundle": false,
     "_integrity": "sha512-wSB3sa2FGPF4Xg38f32HEcGf+2xoStSmVtTAK2IEqKVO3UJ1C/cOOPNEsVyV6662Hj69sCbQ9IGAjiGU2RFb5Q==",
     "_location": "/cordova-plugin-file-opener2-zzz",
@@ -23,9 +22,7 @@
     "_shasum": "8d989e6160c2edcd86701c974d8446b8ba5ae781",
     "_spec": "cordova-plugin-file-opener2-zzz",
     "_where": "F:\\AppWorkspace\\LaBaoGongAPP",
-    "author": {
-        "name": "799316652@qq.com"
-    },
+    "author": "799316652@qq.com",
     "bugs": {
         "url": "https://github.com/zhaozhanzhan/cordova-plugin-file-opener2-zzz/issues"
     },
@@ -59,5 +56,9 @@
         "type": "git",
         "url": "git+https://github.com/zhaozhanzhan/cordova-plugin-file-opener2-zzz.git"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
 }
